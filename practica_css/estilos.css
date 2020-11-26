@@ -1,0 +1,32 @@
+/*En las listas ordenadas los elementos que vayan en color cian,
+tipo de letra arial, color de fondo amarillo, letra 25px.
+En listas ordenadas bordes enteros color negro*/
+  
+li {
+	  color: cyan;
+	  font-family: monospace;
+	  font-size: 25px;
+	  background-color: yellow;
+}
+  
+ol {
+	border: 1px solid black;
+}  
+
+dl {
+	font-family: Courier;
+}
+
+dt {
+	background-color: lightblue;
+	color: red;
+	border: 2px dashed black;
+}
+
+dd {
+	font-style: italic;
+}
+
+#elemento1 {
+	color:red;
+}
